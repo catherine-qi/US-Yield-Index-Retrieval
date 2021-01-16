@@ -1,0 +1,7 @@
+APScheduler==3.6.3
+DateTime==4.3
+fredapi==0.4.2
+numpy==1.18.4
+pandas==1.0.4
+pyodbc==4.0.30
+python-dateutil==2.8.1
